@@ -1,1 +1,1 @@
-# Escenario6
+# InfoGraphicsGitHub
